@@ -1,7 +1,8 @@
-### Data Provider For Yii 2
+### Data Provider For Laravel
 
 For any problem please contact me: giangnguyen.neko.130@gmail.com
 
+This library is incomplete and it may have many errors, please make it become complete. Thank you
 
 ### Usage
 First create data layer
